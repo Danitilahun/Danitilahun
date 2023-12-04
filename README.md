@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJs , Golang , MySQL**
 
-- 💬 Ask me about **react , flutter ,  express , nestjs , MongoDB**
+- 💬 Ask me about **React , Flutter ,  Express , NestJs , MongoDB**
 
 - 📫 How to reach me **tiledan2015@gmail.com**
 
