@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **tiledan2015@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1MaISI4sUMqgitzHk09wrOZkvhXAjKGv4jT41PYgMuiY/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
