@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/daniel-tilahun-017878264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-tilahun-017878264/" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/daniel-tilahun-017878264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-tilahun-017878264/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@tiledan2015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tiledan2015" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tiledan2015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tiledan2015" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tiledan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tiledan" height="30" width="40" /></a>
