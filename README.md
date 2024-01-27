@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Tilahun Mohammed</h1>
-<h3 align="center">Passionate about Next.js (React), Flutter, Go, FastAPI, and Nest.js (Express), fostering versatile software solutions across various platforms and domains. </h3>
+<h3 align="center">Passionate about crafting software solutions with Next.js (React), Flutter, Go, and NodeJs for various platforms and domains. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danitilahun&label=Profile%20views&color=0e75b6&style=flat" alt="danitilahun" /> </p>
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/Danitilahun/ECommerce_App/tree/main/t_store)
