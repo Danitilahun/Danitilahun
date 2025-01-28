@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Tilahun Mohammed</h1>
-<h3 align="center">Passionate about crafting software solutions with ***Python, Machine Learning (ML), and Flutter*** for various platforms and domains. </h3>
+<h3 align="center">Passionate about crafting software solutions with Python, Machine Learning (ML), and Flutter for various platforms and domains. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danitilahun&label=Profile%20views&color=0e75b6&style=flat" alt="danitilahun" /> </p>
 
 - 🔭 I’m currently working on [NLP](https://github.com/Danitilahun/Sentiment-Analysis)
