@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Tilahun Mohammed</h1>
-<h3 align="center">Passionate about crafting software solutions with Next.js (React), Flutter, Go, and NodeJs for various platforms and domains. </h3>
+<h3 align="center">Passionate about crafting software solutions with **Python, Machine Learning (ML), and Flutter** for various platforms and domains. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danitilahun&label=Profile%20views&color=0e75b6&style=flat" alt="danitilahun" /> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/Danitilahun/ECommerce_App/tree/main/t_store)
+- 🔭 I’m currently working on [NLP](https://github.com/Danitilahun/Sentiment-Analysis)
 
-- 🌱 I’m currently learning **NextJs , Golang , MySQL**
+- 🌱 I’m currently learning **NLP , Django , ML and MySQL**
 
-- 💬 Ask me about **React , Flutter ,  Express , NestJs , MongoDB**
+- 💬 Ask me about **Python, FastAPI, NestJs, MongoDB**
 
 - 📫 How to reach me **tiledan2015@gmail.com**
 
