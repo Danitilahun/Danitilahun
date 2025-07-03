@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Tilahun </h1>
-<h3 align="center">Passionate about crafting software solutions with <b>Python</b>, <b>Machine Learning (ML)</b>, <b> Data Science </b>, and <b>Backend Engineer</b> for various platforms and domains.</h3>
+<h3 align="center">Passionate about crafting software solutions with <b>Full-Stack</b>, <b>Machine Learning (ML)</b>, <b> Data Science </b>, and <b>Backend Engineer</b> for various platforms and domains.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danitilahun&label=Profile%20views&color=0e75b6&style=flat" alt="danitilahun" /> </p>
 
 - 💬 Ask me about **Python, FastAPI, NestJs, MongoDB, NLP , Django , ML and MySQL**
