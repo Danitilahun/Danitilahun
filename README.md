@@ -3,7 +3,7 @@
 <h3 align="center"><b>Software Engineer</b> specialized in <b>Backend</b> and <b>AI Engineering</b>, passionate about crafting robust solutions across various platforms and domains.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danitilahun&label=Profile%20views&color=0e75b6&style=flat" alt="danitilahun" /> </p>
 
-- 💬 Ask me about **Python, FastAPI, NestJs, MongoDB, NLP , Django , ML and MySQL**
+- 💬 Ask me about **Python, FastAPI, NestJs, PostgreSQL , MongoDB, Django , and MySQL**
 
 - 📫 How to reach me **tiledan2015@gmail.com**
 
